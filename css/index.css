@@ -36,3 +36,11 @@ nav{
 input {
     border: 2px solid blue;
 }
+
+footer{
+    margin: 0 auto;
+    background: #383838;
+    color: white;
+    text-align: center;
+    height: 50px;
+}
